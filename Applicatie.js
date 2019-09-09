@@ -7,4 +7,3 @@ var achternaam = prompt ('Wat is je achternaam?', 'achternaam' ); // vraagt om a
 var leeftijd = prompt ('Wat is je leeftijd?', 'leeftijd' ); // vraagt om leeftijd en slaat op als variable leeftijd
 
 document.write('hallo ' + voornaam + ' ' + achternaam + ' fijn dat je er bent, zucht jij bent al oud ' + leeftijd + ' jaar oud'); // Geeft een output met alle gevraagde informatie
-//test
